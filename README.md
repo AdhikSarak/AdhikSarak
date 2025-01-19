@@ -2,7 +2,7 @@
 
 
 ## 🌅 Currently Working On
-- 🚀 **Building Cosocket** – a startup focused on robust IT Solutions, working as Flutter Intern
+- 🚀 **Building GuardX** – a startup focused on robust IT Solutions, working as Flutter Intern
 - 📚 **Pursuing third-year Engineering** at PCCOE, Pune  
 
 
